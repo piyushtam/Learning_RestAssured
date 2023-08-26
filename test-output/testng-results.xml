@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8852" started-at="2023-08-06T15:20:50Z" finished-at="2023-08-06T15:20:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8852" started-at="2023-08-06T15:20:50Z" finished-at="2023-08-06T15:20:59Z">
+      <class name="createJSONUsingPOJO.TestUser">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:createJSONUsingPOJO.TestUser@523884b2]" name="setUp" is-config="true" duration-ms="1529" started-at="2023-08-06T15:20:48Z" finished-at="2023-08-06T15:20:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createUser()[pri:0, instance:createJSONUsingPOJO.TestUser@523884b2]" name="createUser" duration-ms="8774" started-at="2023-08-06T15:20:50Z" finished-at="2023-08-06T15:20:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+      </class> <!-- createJSONUsingPOJO.TestUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
